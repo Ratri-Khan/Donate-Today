@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+}
+.header{
+    background-image:url(./images/donate1.jpg);
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-color: black;
+    
+    
+}
+.title{
+    text-align: center;
+    translate: 0px 250px;
+    color: aliceblue;
+}
+.title h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.button{
+    border: none;
+    background-color: #A76F6F;
+    padding: 12px 10px;
+    color: aliceblue;
+}
+.container{
+    text-align: center;
+    translate: 0px 100px;    
+
+}
+.rate{
+    display: flex;
+    width: 650px;
+    margin: auto;
+    
+}
+.rating{
+    border: 1px solid red;
+    padding: 35px ;
+    margin: auto;
+}
